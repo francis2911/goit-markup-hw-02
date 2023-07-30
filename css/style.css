@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    background: #FFFFFF(0, 83%, 57%);
+}
+
+:root {
+    --var-color-text: #757575;
+    --var-color-fondo-hover-focus: #2196F3;
+    --var-colo-text-hover-focus: #FFFFFF;
+    --var-color-fondo: #2F303A;
+    --var-color-fondo1: #F5F4FA;
+}
+
+.comienzo .link-web {
+    text-decoration: none;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.15em;
+    text-align: right;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.titulo{
+    background-color: #2F303A;
+    
+}

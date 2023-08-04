@@ -14,6 +14,7 @@ body {
     --var-color-fondo1: #F5F4FA;
 }
 
+
 /*  trabajamos en el header */
 /* en esta posicion trabajo el logo de la pagina*/
 .comienzo  {
@@ -45,6 +46,10 @@ body {
     font-size: 14px;
     line-height: 1.7142em;
     letter-spacing: 0.02em;
+}
+
+.current {
+    color:var(--var-color-fondo-hover-focus); 
 }
 
 .link-nav a:hover,

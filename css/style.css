@@ -22,10 +22,6 @@ body {
 
 .link-web  {
     text-decoration: none;
-    height: 31px;
-    left: 215px;
-    top: 24px;
-
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -169,11 +165,7 @@ main li {
 }
 
 /* Centramos las imagenes en la pagina principal */
-.contenidoimagen{
-    height: 425px;
-    left: 215px;
-    top: 991px;
-}
+.contenidoimagen
 
 /* Trabajamos en los titulos del cuerpo h2 */
 .titulo-img-principal {
